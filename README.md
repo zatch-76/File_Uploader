@@ -1,4 +1,4 @@
-# File_Uploader
+# Upload any file in Google Drive
 This is a Google Colab notebook to upload files with URL to Google Drive
 <br><br><b>Usage:</b>
 <br>
